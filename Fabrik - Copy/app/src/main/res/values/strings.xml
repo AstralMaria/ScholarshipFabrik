@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fabrik</string>
+    <string name="details_string">Details:</string>
+    <string name="desc">Fabrik hair salon</string>
+    <string name="desc2">Unisex hair salon. We cut, style, and dye your hair</string>
+    <string name="address">63–65 Northgate, Almondbury, Huddersfield, West Yorkshire HD5 8RX</string>
+<string name = "times">Opening times: \nMonday: Closed\nTuesday: 9am–6pm \nWednesday: 9am–6pm \nThursday:  9am–8pm \nFriday: 9am–8pm \nSaturday: 9am–4pm  \nSunday: Closed</string>
+<string name="contact">Phone: 01484 300909</string>
+</resources>
